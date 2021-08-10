@@ -1,0 +1,16 @@
+{
+  "name": "webp_to_jpg_converter",
+  "version": "1.0.0",
+  "description": "simple converter from webp to png",
+  "main": "convert.js",
+  "dependencies": {
+    "webp-converter": "2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "convert": "node convert.js",
+    "clean": "node cleanSrc.js"
+  },
+  "author": "Khnychkin Kirill",
+  "license": "MIT"
+}
