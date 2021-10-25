@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 // get filepath to src folder
-const srcFolder = path.join(__dirname, '/src/');
+const srcFolder = path.join(__dirname, '/webp/');
 
 // read files in the src folder
 fs.readdir(srcFolder, (err, files) => {

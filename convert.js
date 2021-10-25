@@ -7,7 +7,7 @@ const webpConverter = require('webp-converter');
 webpConverter.grant_permission();
 
 // get filepath to src and export folders
-const srcFolder = path.join(__dirname, '/src/');
+const srcFolder = path.join(__dirname, '/webp/');
 const expFolder = path.join(__dirname, '/exported/');
 
 // read all files in the src folder
