@@ -1,6 +1,6 @@
 # Webp to png converter
 
-Small scipt for converting webp images to png.
+Small script for converting webp images to png.
 
 ## How to use
 
